@@ -4,7 +4,7 @@
 @main
 struct SwiftPlayground {
     static func main() {
-       print("Enter an adjective:")
+       print("beautiful:")
         let adjective1 = readLine()!
         
         print("Enter an noun:")
@@ -19,7 +19,7 @@ print("Enter an noun:")
 print("Enter an ajective:")
         let adjective2 = readLine()!
 
-let madLibString = "Once upon a time, there was a \(adjective1) \(noun1) who loved to \(verb1) every day"
+let madLibString = "Once upon a time, there was a \(adjective1) \(noun1) who loved to \(verb1) every day \(noun2) blah blah \(adjective2)   blah blah blah " 
 
 print(madLibString)
 
