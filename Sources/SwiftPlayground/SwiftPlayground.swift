@@ -23,7 +23,20 @@ print("Z Z Z Z Z  H     H")
 let firstName = "Zavier"
 print(firstName)
 
+@main
+struct SwiftPlayground {
+    static func main() {
+        let adjective1 ="beautiful"
+        let noun1 = "toleit paper"
+        let verb1 = "sing"
 
+let madLibString = "Once upon a time, there was a \
+(adjective1) \(noun1) who loved to \(verb1) every day."
+
+
+
+    }
+}
     }
 }
 
