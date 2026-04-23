@@ -10,7 +10,7 @@ struct SwiftPlayground {
 
 let madLibString = "Once upon a time, there was a \(adjective1) \(noun1) who loved to \(verb1) every day."
 
-
+print(madLibString)
 
     }
 }
