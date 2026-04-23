@@ -19,7 +19,7 @@ print("idea:")
 print("quick:")
         let adjective2 = readLine()!
 
-let madLibString = "Once upon a time, there was a \(adjective1) \(noun1) who always \(verb1) to be up to fate with his work more than others. The \(noun2) he had to achive this was not being \(adjective2) it was rather listening to what he was told, and managing his time, the end." 
+let madLibString = "Once upon a time, there was a \(adjective1) \(noun1) who always \(verb1) to be up to date with his work more than others. The \(noun2) he had to achive this was not being \(adjective2) it was rather listening to what he was learning, along with him managing his time, the end." 
 
 print(madLibString)
 
