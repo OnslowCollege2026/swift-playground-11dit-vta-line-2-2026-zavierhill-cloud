@@ -4,7 +4,7 @@
 @main
 struct SwiftPlayground {
     static func main() {
-        let adjective1 ="amazing"
+        let adjective1 = "amazing"
         let noun1 = "chad"
         let verb1 = "dance"
 
