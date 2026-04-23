@@ -7,19 +7,19 @@ struct SwiftPlayground {
        print("beautiful:")
         let adjective1 = readLine()!
         
-        print("Enter an noun:")
+        print("guy:")
         let noun1 = readLine()!
        
-       print("Enter an verb:")
+       print("seem:")
         let verb1 = readLine()!
 
-print("Enter an noun:")
+print("idea:")
         let noun2 = readLine()!
 
-print("Enter an ajective:")
+print("quick:")
         let adjective2 = readLine()!
 
-let madLibString = "Once upon a time, there was a \(adjective1) \(noun1) who loved to \(verb1) every day \(noun2) blah blah \(adjective2)   blah blah blah " 
+let madLibString = "Once upon a time, there was a \(adjective1) \(noun1) who always \(verb1) to be up to fate with his work more than others. The \(noun2) he had to achive this was not being \(adjective2) it was rather listening to what he was told, and managing his time, the end." 
 
 print(madLibString)
 
