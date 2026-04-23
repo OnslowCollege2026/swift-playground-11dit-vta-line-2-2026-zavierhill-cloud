@@ -5,5 +5,33 @@
 struct SwiftPlayground {
     static func main() {
         print("Hello, world!")
+
+       //prints Onslow College.
+       //  print("Onslow College")
+
+/* Task 1
+My initals printed on the screen
+*/
+
+print("Z Z Z Z Z  H     H")
+print("      Z    H     H")
+print("    Z      H H H H")
+print("  Z        H     H")
+print("Z Z Z Z Z  H     H")
+
+// First constant firstName
+let firstName = "Zavier"
+print(firstName)
+
+@main
+struct SwiftPlayground {}
+static func main()     {}
+
     }
 }
+
+
+
+
+
+
