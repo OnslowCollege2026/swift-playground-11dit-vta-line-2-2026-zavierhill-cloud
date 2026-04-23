@@ -4,13 +4,26 @@
 @main
 struct SwiftPlayground {
     static func main() {
-        let adjective1 = "amazing"
-        let noun1 = "chad"
-        let verb1 = "dance"
+       print("Enter an adjective:")
+        let adjective1 = readLine()!
+        
+        print("Enter an noun:")
+        let noun1 = readLine()!
+       
+       print("Enter an verb:")
+        let verb1 = readLine()!
 
-let madLibString = "Once upon a time, there was a \(adjective1) \(noun1) who loved to \(verb1) every day."
+print("Enter an noun:")
+        let noun2 = readLine()!
+
+print("Enter an ajective:")
+        let adjective2 = readLine()!
+
+let madLibString = "Once upon a time, there was a \(adjective1) \(noun1) who loved to \(verb1) every day"
 
 print(madLibString)
+
+
 
     }
 }
