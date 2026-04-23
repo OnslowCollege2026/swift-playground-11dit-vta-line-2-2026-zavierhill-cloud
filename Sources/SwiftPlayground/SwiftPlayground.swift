@@ -23,9 +23,6 @@ print("Z Z Z Z Z  H     H")
 let firstName = "Zavier"
 print(firstName)
 
-@main
-struct SwiftPlayground {}
-static func main()     {}
 
     }
 }
