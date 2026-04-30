@@ -68,7 +68,7 @@ print("Enter your name: ")
 
 let firstName = readLine()!
 
-print("Your name is \(firstName)")
+print("Your name is \(firstName)."
 
 }
 
